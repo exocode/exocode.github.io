@@ -3,7 +3,7 @@ entries:
   hetzner-failover-ip:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-06-05T12:34:00.937628672+02:00
+    created: 2018-06-05T12:44:02.249299285+02:00
     description: High available IPs (< 15s) with Kubernetes in Hetzner Clouds. This
       helm chart manages the assignment of your floating IPs if the target machine
       or process dies. No single point of failure anymore! When your machine or process
@@ -20,6 +20,6 @@ entries:
       name: Jan Jezek
     name: hetzner-failover-ip
     urls:
-    - https://exocode.github.io/helm-charts/hetzner-failover-ip-0.1.0.tgz
+    - https://exocode.github.io/helm-charts/index.yaml/hetzner-failover-ip-0.1.0.tgz
     version: 0.1.0
-generated: 2018-06-05T12:34:00.930924452+02:00
+generated: 2018-06-05T12:44:02.248515049+02:00
